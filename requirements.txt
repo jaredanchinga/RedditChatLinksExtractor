@@ -1,0 +1,4 @@
+praw
+openpyxl
+pillow
+tkcalendar 
